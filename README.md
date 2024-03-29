@@ -1,4 +1,4 @@
-# Algoritmo Regressão Linear Simples
+# Algoritmo Regressão Linear Simples Pyton
 Algortimo de Regressão Linear Simples a fim de teste
 
 **Neste Meu repositório contém um código Python para realizar Regressão Linear com a biblioteca Scikit-learn. O código inclui:**
